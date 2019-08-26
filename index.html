@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
+    <meta name="description" content="Car Carousel Web Component">
+
+    <title>Car Carousel Web Component</title>
+
+    <link rel="shortcut icon" href="styles/favicon.png"/>
+    <link rel="stylesheet" type="text/css" href="styles/index.css"/>
+
+    <script type="module" src="./src/carousel-wc.js"></script>
+  </head>
+
+  <body>
+    <div class="app">
+      <header class="app-header">                
+        <img loading="lazy" class="app-logo" src="styles/logo.svg" width="150" height="150" alt="logo" />
+        <h1 class="app-title">Welcome to Car Carousel Web Component</h1>
+        <h5>Web Component realized with litElement and litHtml</h5>
+      </header>
+
+      <div class="content">
+        <carousel-wc title="Cars Carousel Web Component" dataUrl="data/dataMock.json"></carousel-wc>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "name": "carousel-webcomponent",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "lit-element": "^2.2.1",
+    "lit-html": "^0.13.0",
+    "lory.js": "^2.5.3"
+  },
+  "scripts": {
+    "lint": "eslint . --ext js,html --ignore-path .gitignore",
+    "test": "npm run lint && polymer test",
+    "start": "polymer serve | npm run watch",
+    "watch": "browser-sync start --proxy localhost:8081 --files 'src/**/*.*' 'index.html' '*.js'",
+    "build": "polymer build",
+    "servebuild": "polymer serve build/mybuild"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}

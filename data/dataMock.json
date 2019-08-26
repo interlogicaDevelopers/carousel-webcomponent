@@ -1,0 +1,38 @@
+{
+	"roles": "gneee",
+	"cars": [{
+		"manufacturer": "VW",
+		"model": "Passat Alltrack",
+    "img": "https://gazzu.solid.community/public/cars/vw-alltrack.png",
+    "size": {
+      "width": 400,
+      "height": 223
+    }
+	}, {
+		"manufacturer": "Fiat",
+		"model": "Toro Suv",
+    "img": "https://gazzu.solid.community/public/cars/fiat-toro-suv.png",
+    "size": {
+      "width": 400,
+      "height": 243
+    }
+	}, {
+		"manufacturer": "Ferrari",
+		"model": "Dino",
+    "img": "https://gazzu.solid.community/public/cars/ferrari-new-dino.png",
+    "size": {
+      "width": 400,
+      "height": 228
+    }
+	}, {
+		"manufacturer": "Lamborghini",
+		"model": "Urus",
+    "img": "https://gazzu.solid.community/public/cars/lamborghini-urus.png",
+    "size": {
+      "width": 400,
+      "height": 225
+    }
+	}],
+	"status": true,
+	"errors": null
+}
