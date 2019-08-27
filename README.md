@@ -33,13 +33,9 @@ npm rum servebuild
 
 ### Credits
 
-Created with Love❤️ using [litElement](https://lit-element.polymer-project.org)
+Created with ❤️ using
 
-<https://github.com/Polymer/lit-element>
-<https://lit-element.polymer-project.org/>
-<https://lit-element.polymer-project.org/tools/build>
-<https://43081j.com/2018/09/polymer-lit-with-rollup>
-<https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906>
-<http://meandmax.github.io/lory/>
-<https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_slideshow_dots2>
-<https://addyosmani.com/blog/lazy-loading/>
+[lit-element](https://lit-element.polymer-project.org)
+[lit-html](https://lit-html.polymer-project.org)
+[Lory.js](http://meandmax.github.io/lory)
+[Image lazy loading](https://addyosmani.com/blog/lazy-loading)
