@@ -1,10 +1,10 @@
 {
   "name": "carousel-webcomponent",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "lit-element": "^2.2.1",
-    "lit-html": "^0.13.0",
+    "lit-html": "^1.1.2",
     "lory.js": "^2.5.3"
   },
   "scripts": {
